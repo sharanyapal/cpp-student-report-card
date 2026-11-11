@@ -1,5 +1,45 @@
 # Student Report Card
 
+> **Turning marks into an organized academic record.**
+
+**Classic console C++** · **Student records** · **Algorithm & state practice**
+
+---
+
+## The program
+
+Create student reports with grades calculated from five subjects.
+
+**Explore:** Inspect student record entry, grade calculations and report output.
+
+## Files
+
+| Path | Purpose |
+|:--|:--|
+| [`Turbo C++ DOS`](./Turbo%20C++%20DOS) | Additional project resources |
+| [`Visual C++ 2010`](./Visual%20C++%202010) | Additional project resources |
+| [`docs`](./docs) | Additional project resources |
+| [`run-in-browser.html`](./run-in-browser.html) | Additional project resources |
+
+
+## Running it
+
+Read the C++ entry point in the source file, then compile using an appropriate C++ toolchain. Some original source variants target Turbo C++/DOS and may need compatibility adjustments before modern compilation.
+
+## What to study
+
+- Input validation and console output.
+- State transitions and termination conditions.
+- Porting older compiler-specific code without changing game or business rules.
+
+## Usage boundary
+
+This is an educational console program. Use invented data for testing, not personal records or real financial information.
+
+<details><summary><strong>Original project guide (preserved)</strong></summary>
+
+# Student Report Card
+
 Create student reports with grades calculated from five subjects.
 
 ## Run in your browser (no setup)
@@ -29,3 +69,9 @@ The previous WebAssembly GitHub Actions workflow is not required for this standa
 ### Note
 
 This repository contains archived, third-party classroom-style C++ examples from a previously supplied collection. Review attribution and redistribution rights before publishing as your own original work.
+
+</details>
+
+---
+
+<sub>Browse [all C++ and engineering repositories](https://github.com/sharanyapal?tab=repositories).</sub>
